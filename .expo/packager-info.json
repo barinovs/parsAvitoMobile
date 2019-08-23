@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 11876,
+  "expoServerNgrokUrl": "https://mv-xdn.barinovs.parsavito.exp.direct",
+  "packagerNgrokUrl": "https://packager.mv-xdn.barinovs.parsavito.exp.direct",
+  "ngrokPid": 12260,
+  "webpackServerPort": 19006
+}
